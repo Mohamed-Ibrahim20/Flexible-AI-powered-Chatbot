@@ -50,7 +50,6 @@ Customize the behavior by modifying the configuration to select different Google
 ├── chatbot.py         # Main chatbot implementation file
 ├── config.json        # Configuration file for API keys and settings
 ├── requirements.txt   # List of required Python packages
-└── docs/              # Additional documentation and guides
 ```
 
 ## Contributing
