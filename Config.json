@@ -1,0 +1,15 @@
+{
+  "google_api_key": "YOUR_GOOGLE_API_KEY",
+  "gemini_flash_key": "YOUR_GEMINI_FLASH_API_KEY",
+  "model_selection_criteria": {
+    "task_based": {
+      "greeting": "gemini-chatbot-v1",
+      "customer_support": "gemini-chatbot-v2",
+      "feedback": "gemini-chatbot-v3"
+    }
+  },
+  "settings": {
+    "language": "en",
+    "timeout": 30
+  }
+}
