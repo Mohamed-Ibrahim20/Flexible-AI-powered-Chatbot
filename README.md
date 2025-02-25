@@ -1,13 +1,14 @@
-# Gemini 2.0 Flash Chatbot Framework
+#  Scalable and Customizable Chatbot Framework
 
-This project is a powerful and versatile chatbot implementation built on Gemini 2.0 Flash. It leverages the flexibility of Google’s chatbot models, dynamically selecting the optimal model for the task at hand.
+This project is a flexible and scalable chatbot framework that integrates multiple AI models,. It can dynamically integrate multiple Google chatbot models and allows for the easy customization of prompts based on task requirements, such as a customer service interaction. The chatbot also features memory capabilities and a user-friendly interface for seamless interactions, making it adaptable for a variety of use cases.
 
 ## Features
 
-- **Multi-Model Integration:** Dynamically integrates with various Google chatbot models.
-- **Task-Specific Adaptability:** Automatically selects the most suitable model based on the required task.
-- **Scalable Architecture:** Designed for easy extension and integration into existing systems.
-- **User-Friendly Interface:** Simple and intuitive API for deploying and managing chatbot interactions.
+- **Multi-Model Integration:** Dynamically selects the most suitable Google chatbot model based on the task.
+- **Prompt Customization:** Easily change the prompt to suit different interaction goals or use cases.
+- **Memory Capabilities:** Retains conversation context for more engaging and coherent interactions.
+- **User Interface:** Simple and intuitive interface built with Gradio for easy deployment and testing.
+- **Scalable Architecture:** Designed to be easily scalable and adaptable for future integrations.
 
 ## Prerequisites
 
