@@ -21,13 +21,13 @@ This project is a flexible and scalable chatbot framework that integrates multip
 1. **Clone the repository:**
     
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Mohamed-Ibrahim20/Flexible-AI-powered-Chatbot
     ```
     
 2. **Install dependencies:**
     
     ```bash
-    cd your-repo-name
+    cd Flexible-AI-powered-Chatbot
     pip install -r requirements.txt
     ```
     
